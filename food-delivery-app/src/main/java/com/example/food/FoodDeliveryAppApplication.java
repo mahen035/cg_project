@@ -3,7 +3,7 @@ package com.example.food;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//mkumar1:commenting for merge demo
+//mkumar1:this is commented from demo1
 @SpringBootApplication
 public class FoodDeliveryAppApplication {
 
