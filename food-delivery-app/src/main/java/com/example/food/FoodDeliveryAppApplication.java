@@ -10,6 +10,7 @@ public class FoodDeliveryAppApplication {
 
 	public static void main(String[] args) {
 		System.out.println("This code is to demonstrate git merge");
+		System.out.println("This code may be conflicting");
 		SpringApplication.run(FoodDeliveryAppApplication.class, args);
 	}
 
